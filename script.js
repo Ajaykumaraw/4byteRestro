@@ -49,15 +49,8 @@ var swiper = new Swiper(".home-slider", {
         1024:{
           slidesPerView:3,
         },
-      }
+      } 
   });
-
-
-
-
-
-
-
 
 
 
